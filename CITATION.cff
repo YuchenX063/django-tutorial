@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Xiong
+    given-names: Yuchen
+title: "Django Tutorial"
+abstract: "This is a Django tutorial project."
+version: 0.0.1
+date-released: "2024-12-31"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/YuchenX063/django-tutorial"
